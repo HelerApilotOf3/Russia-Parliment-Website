@@ -1,0 +1,20 @@
+@charset "utf-8";
+.Head {
+	text-align: center;
+	font-style: italic;
+	font-variant: normal;
+	font-weight: bolder;
+	font-size: xx-large;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+.Text {
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    font-size: medium;
+    background-color: #E7B667;
+    border-width: medium;
+}
+tr td p {
+}
